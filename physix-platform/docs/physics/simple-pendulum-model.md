@@ -9,7 +9,7 @@
 | Code | `src/experiments/simple-pendulum/`, `src/simulation-core/` |
 | Status | Implemented, unit-tested; not yet reviewed by the physics content expert |
 
-This document is the source for the pendulum part of the SAD and for the reference tests (SCRUM-20).
+This document is the source for the pendulum part of the SAD and for the reference tests (SCRUM-20). For setup commands and integration examples, see [simple-pendulum-usage.md](simple-pendulum-usage.md).
 
 ## 1. Physical model
 
