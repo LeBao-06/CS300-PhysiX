@@ -1,0 +1,4 @@
+# Installed dependencies and generated builds in all application folders
+node_modules/
+dist/
+dist-ssr/

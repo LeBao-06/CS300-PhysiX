@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+logs/
+supabase/
+*.log
+package-lock.json
+.vite/
+playwright-report/
+test-results/
